@@ -47,4 +47,5 @@ table th {
 table td {
     border-bottom: 1px solid #333;
     color: #000;
+    text-align: center;
 }

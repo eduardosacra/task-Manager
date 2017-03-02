@@ -41,6 +41,9 @@
       <tr>
         <th colspan="5">Tarefas</th>
       </tr>
+      <tr>
+        <th>nome</th><th>nome</th>descricao<th>prazo</th><th>prioridade</th><th>concluida</th>
+      </tr>
       <?php foreach ($lista_tarefas as  $tarefa) :?>
       <tr>
         <td><?php echo $tarefa['nome']; ?></td>
