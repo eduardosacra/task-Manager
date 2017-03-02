@@ -1,0 +1,13 @@
+{
+    "name": "Tasks_Maganer",
+    "description": "Task manager, using the mysql database to store the tasks.",
+    "authors": [
+        {
+            "name": "Eduardo Sacramento de Sousa",
+            "email": "eduardo.sacra.sousa@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9"
+    }
+}
